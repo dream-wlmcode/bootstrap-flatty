@@ -1,5 +1,5 @@
 # bootstrap-flatty
-这是一个基于bootstrap的后台模板（兼容ie8）
+这是一个基于bootstrap-v2.3.2的后台模板（兼容ie8）
 
 
 
